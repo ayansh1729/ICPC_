@@ -1,5 +1,6 @@
 #include <iostream>
 #include <bits/stdc++.h>
+
 using namespace std;
 
 int binary_search(int key, int *arr, int size) // Method - 1
