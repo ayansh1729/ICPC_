@@ -1,4 +1,6 @@
 // Codechef contest---- contest code-- PERMGCD
+// The Approach in these kinds of Questions is not to find the exact permutataion but to find the common permutation that would suite
+// As in this example there are many permutations possible but the best way is.....to find first element then make all other 1
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
