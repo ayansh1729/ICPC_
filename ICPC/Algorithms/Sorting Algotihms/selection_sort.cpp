@@ -8,15 +8,15 @@ int *selection_sort(int *arr, int n)
 {
     for (int i = 0; i < n; i++)
     {
-        int min_index = i;
+        int min_index = i; // Declearing minimum index to be i
         for (int j = i; j < n; j++)
         {
-            if (arr[j] < arr[min_index])
+            if (arr[j] < arr[min_index]) // finding the index of minimum element in rest of the array
             {
                 min_index = j;
             }
         }
-        swap(arr[i], arr[min_index]);
+        swap(arr[i], arr[min_index]); // swapping the element
     }
     return arr;
 }
