@@ -1,0 +1,5 @@
+When you have to add int 1<= n <= 10^9
+Make sure the sum is long long int
+
+Insert of thinking of or number of cases for a given range e.x [1 to 6]
+think when will case 1 occur when will case 2 and so on;
