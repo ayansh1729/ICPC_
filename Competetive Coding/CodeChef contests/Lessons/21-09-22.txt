@@ -1,0 +1,5 @@
+Don't go for all possible combinations example.....if exactly k subarrays with this conditions are possible or not
+then in that case check for properties which can be genralised....like for the same question even k-r is also possible
+Example:
+    https://www.codechef.com/START56A/problems/KSUB
+    
