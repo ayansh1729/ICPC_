@@ -69,7 +69,7 @@ int knap_sack(int *w, int *p, int n, int W)
             }
         }
     }
-    return d[n][W];
+    return d[n][W];                             //The last weight is final solution
 }
 
 int main()
