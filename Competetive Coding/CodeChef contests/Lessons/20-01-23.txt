@@ -1,0 +1,2 @@
+Practice:
+    Contest: Starters 74: Mininimum Inversions (MININV)

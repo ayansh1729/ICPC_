@@ -1,0 +1,19 @@
+Questions Practiced:
+HOWMANY(908)
+EZSPEAK(1000)
+<------------Basic Programming under 1000 done! -------------->
+
+Arrays(Practice):
+PRACTICEPERF(467)
+TLG(790)
+RECENTCONT(793)
+NUM239(873)
+DOLL(984)
+
+<-------------Arrays Programming under 1000 done! ------------>
+Strings(Practice):
+WORDLE(804)
+HAPPYSTR(956)
+
+<------------ Strings Programming under 1000 done! ----------->
+
